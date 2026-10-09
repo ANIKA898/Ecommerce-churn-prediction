@@ -3,7 +3,7 @@ AI-powered e-commerce customer churn  prediction web app built with Python,  Ran
 
 
 ### Overview  
-This project predicts whether a customer will churn or not using machine learning. It analyzes customer behavior like app usage, order patterns, and engagement to identify high-risk customers.
+This project predicts whether a customer will churn or not using machine learning. It analyzes customer behaviour like app usage, order patterns, and engagement to identify high-risk customers.
 
 ### Problem Statement  
 Customer churn is a major issue for ecommerce companies. This project helps identify customers who are likely to leave so that businesses can take preventive actions.
